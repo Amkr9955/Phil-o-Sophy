@@ -35,7 +35,7 @@
     PROJECT
     <br />
     <h3>Frontend Animated Non-Responsive Project</h3>
-    <p>https://amkr9955.github.io/Phil-o-Sophy/</p>
+    <p>https://phil-o-sophy.netlify.app/</p>
     
     
   </p>
@@ -147,7 +147,7 @@ Gmail: officialamit05042002@gmail.com
 
 Project Link: https://github.com/Amkr9955/Phil-o-Sophy
 
-Project Live: https://amkr9955.github.io/Phil-o-Sophy/
+Project Live: https://phil-o-sophy.netlify.app/
 
 
 
