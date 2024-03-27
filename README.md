@@ -105,7 +105,7 @@ Feel free to explore the code and experiment with the animations. You can modify
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@linkedin_handle](edin.com/in/amit-kumar-34b3981b4/) 
+Linkedin - [@linkedin_handle](edin.com/in/amit-kumar-34b3981b4/) 
 </br>
 
 
@@ -120,10 +120,7 @@ Project Live: https://phil-o-sophy.netlify.app/
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* [Sheryians Coding School](https://sheryians.com/)
 
 
 
